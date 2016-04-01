@@ -6,10 +6,10 @@
  * http://catberry.org/documentation#cat-components-interface
  */
 
-class __pascalName__ {
+class <%= __pascalName__ %> {
 
 	/**
-	 * Creates a new instance of the "__name__" component.
+	 * Creates a new instance of the "<%= __name__ %>" component.
 	 */
 	constructor() {
 
@@ -43,4 +43,4 @@ class __pascalName__ {
 	}
 }
 
-module.exports = __pascalName__;
+module.exports = <%= __pascalName__ %>;
