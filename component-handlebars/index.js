@@ -1,7 +1,7 @@
 'use strict';
 
 /*
- * This is a Catberry Cat-component file.
+ * This is a Catberry cat-component file.
  * More details can be found here
  * http://catberry.org/documentation#cat-components-interface
  */
